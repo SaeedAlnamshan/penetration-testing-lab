@@ -11,14 +11,14 @@ This project documents a controlled penetration testing assessment of a Linux sy
 - Perform privilege escalation.
 - Achieve and verify root-level access.
 
-- ## Environment
+ ## Environment
 
 - Target OS: Linux
 - Testing Environment: Authorized cybersecurity training lab
 - Attacker Machine: Kali Linux
 - Assessment Type: Black-box penetration testing
 
-- ## Reconnaissance & Enumeration
+ ## Reconnaissance & Enumeration
 
 The assessment began with network reconnaissance and service enumeration to identify the target system, exposed ports, running services, and potential attack vectors.
 
@@ -28,7 +28,7 @@ The assessment began with network reconnaissance and service enumeration to iden
 - Kali Linux
 - Linux command-line utilities
 
-- ## Initial Access
+ ## Initial Access
 
 After identifying the exposed services, further enumeration was performed to determine potential weaknesses and obtain initial access to the target system.
 
@@ -46,17 +46,6 @@ Root access was verified using:
 
 `id`
 
-## Root Access Verification
-
-Successful privilege escalation was confirmed by verifying administrative access to the target system.
-
-The following commands confirmed root-level privileges:
-
-`whoami`
-
-`id`
-
-The assessment concluded after root access was successfully achieved and verified.
 
 ## Skills Demonstrated
 
