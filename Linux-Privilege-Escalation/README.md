@@ -73,3 +73,9 @@ The assessment concluded after root access was successfully achieved and verifie
 This assessment strengthened my practical understanding of the penetration testing lifecycle, from initial reconnaissance and enumeration to system access and privilege escalation.
 
 The exercise also reinforced the importance of systematic enumeration and validating security weaknesses before attempting exploitation.
+
+## Root Access Verification
+
+The screenshot below demonstrates successful root-level access obtained during the authorized security assessment. The flag value has been intentionally redacted.
+
+![Root Access Verification](root-access-verification.png)
