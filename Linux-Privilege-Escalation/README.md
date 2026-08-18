@@ -78,4 +78,4 @@ The exercise also reinforced the importance of systematic enumeration and valida
 
 The screenshot below demonstrates successful root-level access obtained during the authorized security assessment. The flag value has been intentionally redacted.
 
-![Root Access Verification](root-access-verification.png)
+![Root Access Verification](root-access-verification.png.png)
