@@ -1,10 +1,9 @@
 # penetration-testing-lab
-Practical penetration testing projects focused on enumeration, exploitation, privilege escalation, and security assessment.
+Practical penetration testing projects focused on reconnaissance, service enumeration, vulnerability assessment, and security validation.
 
 ## About This Repository
 
-This repository presents practical penetration testing and security assessment projects, documenting a structured approach to reconnaissance, enumeration, exploitation, privilege escalation, and security validation.
-
+This repository presents practical penetration testing and security assessment projects, documenting a structured approach to reconnaissance, service enumeration, vulnerability assessment, remote access security, and security validation.
 The projects focus on demonstrating hands-on cybersecurity skills through controlled and authorized testing environments.
 
 ## Core Skills
@@ -16,7 +15,7 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 - Remote Access Security Assessment
 - Security Validation
 
- ## Tools & Technologies
+## Tools & Technologies
 
 - Kali Linux
 - Nmap
