@@ -16,6 +16,14 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 - Privilege Escalation
 - Security Validation
 
+ ## Tools & Technologies
+
+- Kali Linux
+- Nmap
+- Linux CLI
+- Network Scanning & Enumeration
+- Virtualized Lab Environments
+
 ## Security Assessments
 
 ### Linux Privilege Escalation Assessment
