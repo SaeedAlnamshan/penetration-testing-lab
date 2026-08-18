@@ -26,8 +26,8 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 
 ## Security Assessments
 
-### Linux Privilege Escalation Assessment
+### Linux Service Enumeration & Security Assessment
 
-A controlled penetration testing assessment demonstrating network enumeration, initial access, Linux system enumeration, and successful privilege escalation to root.
+A controlled Linux security assessment demonstrating network reconnaissance, service enumeration, identification of insecure Telnet access, and successful verification of root-level access.
 
 [View Assessment →](Linux-Privilege-Escalation/README.md)
