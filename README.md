@@ -13,7 +13,7 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 - Network Reconnaissance & Enumeration
 - Vulnerability Assessment
 - Linux Security
-- Privilege Escalation
+- Remote Access Security Assessment
 - Security Validation
 
  ## Tools & Technologies
