@@ -56,4 +56,4 @@ The exercise also demonstrated the importance of identifying exposed legacy prot
 
 The screenshot below demonstrates successful root-level access obtained during the authorized security assessment. The flag value has been intentionally redacted.
 
-![Root Access Verification](root-access-verification.png.png)
+![Root Access Verification](root-access-verification.png)
