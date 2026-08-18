@@ -68,7 +68,7 @@ The assessment concluded after root access was successfully achieved and verifie
 - Root access verification
 - Penetration testing methodology
 
-- ## Key Takeaways
+ ## Key Takeaways
 
 This assessment strengthened my practical understanding of the penetration testing lifecycle, from initial reconnaissance and enumeration to system access and privilege escalation.
 
