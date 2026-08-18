@@ -29,4 +29,4 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 
 A controlled Linux security assessment demonstrating network reconnaissance, service enumeration, identification of insecure Telnet access, and successful verification of root-level access.
 
-[View Assessment →](Linux-Privilege-Escalation/README.md)
+[View Assessment →](Linux-Service-Security-Assessment/README.md)
