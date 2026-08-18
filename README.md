@@ -7,6 +7,15 @@ This repository presents practical penetration testing and security assessment p
 
 The projects focus on demonstrating hands-on cybersecurity skills through controlled and authorized testing environments.
 
+## Core Skills
+
+- Penetration Testing
+- Network Reconnaissance & Enumeration
+- Vulnerability Assessment
+- Linux Security
+- Privilege Escalation
+- Security Validation
+
 ## Security Assessments
 
 ### Linux Privilege Escalation Assessment
