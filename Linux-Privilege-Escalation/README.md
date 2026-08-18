@@ -1,16 +1,16 @@
-# Linux Privilege Escalation Assessment
+# Linux Service Enumeration & Security Assessment
 ## Overview
 
-This project documents a controlled penetration testing assessment of a Linux system, focusing on reconnaissance, enumeration, initial access, and privilege escalation to root.
+This project documents a controlled security assessment of a Linux system, focusing on network reconnaissance, service enumeration, identification of insecure remote access, and verification of root-level access.
 
 ## Assessment Objectives
 
-- Identify exposed services and potential attack vectors.
-- Enumerate the target Linux system.
-- Obtain initial access through an identified weakness.
-- Perform privilege escalation.
-- Achieve and verify root-level access.
-
+- Identify the target system and exposed network services.
+- Enumerate running services and assess their security configuration.
+- Identify insecure remote access exposure.
+- Validate access to the target system within the authorized lab environment.
+- Verify root-level privileges.
+  
  ## Environment
 
 - Target OS: Linux
@@ -28,40 +28,29 @@ The assessment began with network reconnaissance and service enumeration to iden
 - Kali Linux
 - Linux command-line utilities
 
- ## Initial Access
+ ## Remote Access Validation
 
-After identifying the exposed services, further enumeration was performed to determine potential weaknesses and obtain initial access to the target system.
+Enumeration identified an exposed Telnet service on the target system.
 
-Successful access provided a limited user shell, which was then used for local system enumeration.
+The service was assessed within the authorized lab environment, revealing an insecure remote access configuration that allowed direct access to the system with root-level privileges.
 
-## Privilege Escalation
-
-Local enumeration was performed after gaining initial access to identify potential privilege escalation paths.
-
-A security weakness was identified and successfully leveraged to escalate privileges from a limited user account to root-level access.
-
-Root access was verified using:
-
-`whoami`
-
-`id`
-
+The resulting access was verified using standard Linux commands.
 
 ## Skills Demonstrated
 
-- Network reconnaissance and service enumeration
-- Linux system enumeration
-- Vulnerability identification
-- Initial access techniques
-- Linux privilege escalation
+- Network reconnaissance
+- Service enumeration
+- Telnet service assessment
+- Insecure remote access identification
+- Linux command-line navigation
 - Root access verification
-- Penetration testing methodology
-
+- Security assessment methodology
+  
  ## Key Takeaways
 
-This assessment strengthened my practical understanding of the penetration testing lifecycle, from initial reconnaissance and enumeration to system access and privilege escalation.
+This assessment strengthened my practical understanding of network reconnaissance, service enumeration, and the security risks associated with insecure remote access services.
 
-The exercise also reinforced the importance of systematic enumeration and validating security weaknesses before attempting exploitation.
+The exercise also demonstrated the importance of identifying exposed legacy protocols such as Telnet and validating their security configuration during an authorized security assessment.
 
 ## Root Access Verification
 
