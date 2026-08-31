@@ -27,6 +27,12 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 
 ### Linux Service Enumeration & Security Assessment
 
+### FTP Service Security Assessment
+
+A controlled Linux security assessment demonstrating network reconnaissance, FTP service enumeration, identification of anonymous authentication, and validation of exposed file access.
+
+[View Assessment →](FTP-Service-Security-Assessment/README.md)
+
 A controlled Linux security assessment demonstrating network reconnaissance, service enumeration, identification of insecure Telnet access, and successful verification of root-level access.
 
 [View Assessment →](Linux-Service-Security-Assessment/README.md)
