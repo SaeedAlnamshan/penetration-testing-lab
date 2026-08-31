@@ -46,3 +46,10 @@ Anonymous authentication was permitted, allowing access to files hosted on the F
 This assessment demonstrated the security risks associated with improperly configured FTP services and anonymous authentication.
 
 Restricting anonymous access, enforcing appropriate authentication controls, and reviewing exposed files are important measures for reducing unauthorized information disclosure.
+
+
+## FTP Access Verification
+
+The screenshot below demonstrates successful access to the FTP service during the authorized security assessment. Sensitive flag information has been intentionally redacted.
+
+![FTP Access Verification](ftp-access-verification.jpg)
