@@ -30,3 +30,9 @@ The projects focus on demonstrating hands-on cybersecurity skills through contro
 A controlled Linux security assessment demonstrating network reconnaissance, service enumeration, identification of insecure Telnet access, and successful verification of root-level access.
 
 [View Assessment →](Linux-Service-Security-Assessment/README.md)
+
+## FTP Access Verification
+
+The screenshot below demonstrates successful access to the FTP service during the authorized security assessment. Sensitive flag information has been intentionally redacted.
+
+![FTP Access Verification](ftp-access-verification.jpg)
