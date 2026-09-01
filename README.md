@@ -1,4 +1,4 @@
-# Penetration-testing-lab
+# Penetration Testing Lab
 Practical penetration testing projects focused on reconnaissance, service enumeration, vulnerability assessment, and security validation.
 
 ## About This Repository
