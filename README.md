@@ -36,3 +36,10 @@ A controlled Linux security assessment demonstrating network reconnaissance, ser
 A controlled Linux security assessment demonstrating network reconnaissance, FTP service enumeration, identification of anonymous authentication, and validation of exposed file access.
 
 [View Assessment →](FTP-Service-Security-Assessment/README.md)
+
+
+### SMB Service Security Assessment
+
+A controlled Windows security assessment demonstrating network reconnaissance, SMB service enumeration, network share discovery, and identification of weak share access controls.
+
+[View Assessment →](SMB-Service-Security-Assessment/README.md)
