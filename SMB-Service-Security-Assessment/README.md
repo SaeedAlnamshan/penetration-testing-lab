@@ -47,3 +47,10 @@ An accessible share was identified that permitted access without a valid passwor
 This assessment demonstrated the security risks associated with improperly configured SMB shares and weak access controls.
 
 Restricting anonymous or unauthenticated access, applying appropriate share permissions, and regularly reviewing exposed network resources are important measures for reducing unauthorized information disclosure.
+
+
+## SMB Share Access Verification
+
+The screenshot below demonstrates successful enumeration and access to an exposed SMB share during the authorized security assessment. Sensitive flag information has been intentionally redacted.
+
+![SMB Share Access Verification](smb-share-access-verification.jpg)
